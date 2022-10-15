@@ -29,8 +29,8 @@ const dbGet = async (req, res) => {
   return "Fetch data success";
 };
 
-//@desc Update an event
-//@route PUT /api/v3/app/:id
+//@desc Post an event
+//@route Post /api/v3/app/:id
 //@access Public
 
 const dbPost = async (req, res) => {
