@@ -1,3 +1,7 @@
+# Sample Data
+
+![SAMPLEDATA](assets/sampledata.png "Sample Example")
+
 # POST
 
 ```
@@ -37,5 +41,3 @@
 ```
 
 ![DELETE](assets/delete.png "DELETE example")
-
-### Completed in 1 hr
